@@ -11,6 +11,7 @@
   "author": "Alisson Zampietro",
   "license": "ISC",
   "dependencies": {
+    "babel": "^6.23.0",
     "express": "^4.16.3"
   },
   "devDependencies": {
